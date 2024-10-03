@@ -1,2 +1,2 @@
 # flask-boomi-api
-A boomi connector written in flask
+A Boomi connector written in python using Flask
